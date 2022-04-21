@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Bertonsin/Bertonsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando front-end
+- 📫 E-mail de contato: gustavobertonsin@hotmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href = "https:/github.com/Bertonsin">
+  <img width="42%" height="180em" src= "https://github-readme-stats.vercel.app/api?username=Bertonsin&show_icons=true&theme=tokyonight" />
+  <img width="42%" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bertonsin&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
+  
+  <div>
+    ![Snake animation](htpps://github.com/Bertonsin/Bertonsin/blob/output/github-contribution-grid-snake.svg)
+  </div>

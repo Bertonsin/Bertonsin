@@ -1,5 +1,5 @@
 
-- 🌱 Estudando front-end
+- 👨‍💻 FullStack developer
 - 📫 E-mail de contato: gustavobertonsin@hotmail.com
 
 <div>

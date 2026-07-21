@@ -1,7 +1,7 @@
-
+- 💻 Software Engineer 
 - 👨‍💻 FullStack developer
 - 📫 E-mail de contato: gustavobertonsin@hotmail.com
-- 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
